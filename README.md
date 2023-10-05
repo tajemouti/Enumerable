@@ -37,7 +37,7 @@ Ruby, Visual Studia Code, WSL
 
 ### Key Features <a name="key-features"></a>
 
-- **[Morse Code Decoder]**
+- **[Enumerable Ruby App]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
